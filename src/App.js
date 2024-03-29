@@ -23,7 +23,7 @@ const App = () => {
 
   return (
     <div className="app">
-      <h1>MovieHarbor</h1>
+      <h1>Movies Harbor</h1>
 
       <div className="search">
         <input
